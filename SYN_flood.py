@@ -4,7 +4,7 @@ from scapy.all import *
 from colorama import *
 
 print(Fore.GREEN + "[*] SYN FLOOD ATTACK")
-print(Fore.RED + "[***]  Don't use this script for illegal purposes ! [***]")
+print(Fore.RED + "[***]  Don't use this script for illegals purposes ! [***]")
 print("")
 target_IP = raw_input("[*] traget_IP >>> ")
 target_port = raw_input("[*] target_port >>> ")
